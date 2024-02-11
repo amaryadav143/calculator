@@ -1,4 +1,4 @@
-# calculator
+# DESCRIPTON
 To use the application, type in the following commands in GNU/Linux terminal.
 
 sudo apt install git
